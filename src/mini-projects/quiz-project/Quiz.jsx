@@ -59,6 +59,7 @@ export default function Quiz() {
 			setCurrentIndex((value) => value + 1)
 
 		}
+	
 	}
 
 
