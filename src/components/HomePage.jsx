@@ -4,10 +4,10 @@ import './HomePage.css';
 
 const projects = [
   {
-    name: 'Project 1',
+    name: 'Quiz Project',
     image: 'path/to/project1-image.jpg',
     intro: 'Short intro for Project 1',
-    link: '/project1'
+    link: '/quiz'
   },
   {
     name: 'Project 2',
