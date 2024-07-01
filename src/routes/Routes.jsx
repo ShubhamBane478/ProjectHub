@@ -5,7 +5,7 @@ import HomePage from '../components/HomePage';
 import BirthdayCard from '../mini-projects/birthday-reminder/BirthdayCard'
 
 import Quiz from '../mini-projects/quiz-project/Quiz';
-import ProductsPage from '../mini-projects/filterable-products/ProudctsPage';
+import ProductsPage from '../mini-projects/filterable-products/ProductsPage';
 
 const AppRoutes = () => {
   return (
